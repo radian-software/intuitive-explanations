@@ -76,13 +76,15 @@ blockquote.replit:before {
   background: #fdfdfd;
   width: 3rem;
   height: 2rem;
-  font: 6em/1.08em "PT Sans", sans-serif;
+  font:
+    6em/1.08em "PT Sans",
+    sans-serif;
   color: #666;
   text-align: center;
 }
 
 blockquote.replit:after {
-  content: "\2014\00A0"attr(cite);
+  content: "\2014\00A0" attr(cite);
   display: block;
   text-align: right;
   font-size: 0.875em;
