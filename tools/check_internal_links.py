@@ -38,7 +38,7 @@ def get_anchors_defined(text):
 errors = []
 
 for relpath in (
-    subprocess.run(["git", "ls-files"], stdout=subprocess.PIPE)
+    subprocess.run(["git", "ls-files"], stdout=subprocess.PIPE, check=True)
     .stdout.decode()
     .splitlines()
 ):

@@ -478,8 +478,8 @@ short list.
   [Auto 2FA](https://github.com/FreshSupaSulley/Auto-2FA) to handle
   Duo Mobile without a proprietary app.
 * Photo editing: [Krita](https://krita.org/en/) or
-  [ImageMagick](https://imagemagick.org/#gsc.tab=0) on desktop,
-  [dev.macgyver Photo Editor](https://www.iudesk.com/) on mobile.
+  [ImageMagick](https://imagemagick.org/) on desktop, [dev.macgyver
+  Photo Editor](https://www.iudesk.com/) on mobile.
 * Shell: [Zsh](https://en.wikipedia.org/wiki/Z_shell) for daily
   systems, [Bash](https://www.gnu.org/software/bash/) for automation
   and servers. Configuration from my own
