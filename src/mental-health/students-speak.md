@@ -7,9 +7,10 @@ College](https://www.hmc.edu/), I spoke at a student panel called,
 appropriately enough, [Students
 Speak](https://www.facebook.com/events/450365015840596). The purpose
 of the panel, which was organized by the [Claremont Colleges Mental
-Health Alliance](http://5cmentalhealthalliance.pomona.edu/), was for
-students to share their experiences with mental health in order to
-work towards destigmatizing these important issues.
+Health
+Alliance](https://web.archive.org/web/20240706113819/https://5cmentalhealthalliance.pomona.edu/),
+was for students to share their experiences with mental health in
+order to work towards destigmatizing these important issues.
 
 In the hope that the thoughts I have about my experience may be
 helpful to others, I have transcribed my segment of the panel below.

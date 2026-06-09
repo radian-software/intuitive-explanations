@@ -311,9 +311,9 @@ some expression and just that expression itself.
 #### Input/output monad
 
 Kalyn adopts Haskell's abstraction of
-[monads](http://learnyouahaskell.com/a-fistful-of-monads) with
-youthful exuberance. Explaining monads is beyond the scope of this
-article, but the point is that every input/output function in the
+[monads](https://web.archive.org/web/20231221125424/https://learnyouahaskell.com/a-fistful-of-monads)
+with youthful exuberance. Explaining monads is beyond the scope of
+this article, but the point is that every input/output function in the
 standard library (`print`, `readFile`, `writeFile`, etc.) doesn't
 actually do IO. Instead, it returns an instance of the IO monad which
 *represents* the IO action. These instances can then be chained
@@ -2788,7 +2788,7 @@ elfHeader elfHeaderLength programHeaderLength =
   in  toLazyByteString
         $  lazyByteString elfIdent
         <> word16LE 3 -- file type, relocatable executable (called "shared object file")
-                      -- see https://opensource.apple.com/source/dtrace/dtrace-90/sys/elf.h
+                      -- see https://web.archive.org/web/20240715074814/https://opensource.apple.com/source/dtrace/dtrace-90/sys/elf.h
         <> word16LE 62 -- architecture, x86_64
         <> word32LE 1 -- object file version
         <> word64LE (fromIntegral totalLength) -- entry point in virtual memory

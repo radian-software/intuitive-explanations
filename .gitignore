@@ -7,9 +7,11 @@
 *.pdf
 *.snm
 *.tar.gz
+*.tmp
 *.toc
 *.xdv
 .env
+.url-cache.json
 .vercel
 auto
 node_modules

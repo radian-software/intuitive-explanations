@@ -259,7 +259,7 @@ alt-svc: h3=":443"; ma=3600, h3-29=":443"; ma=3600
 
 However, cURL syntax is a little annoying, and I personally prefer to
 use [HTTPie](https://httpie.io/) instead. Fortunately there is a nice
-tool called [CurliPie](https://curlipie.vercel.app/) that converts
+tool called [CurliPie](https://curlipie.open-api.vn) that converts
 cURL syntax to HTTPie. That gives us this:
 
 ```
@@ -694,8 +694,8 @@ fetched asynchronously via JavaScript. For various historical reasons,
 this is called an XHR request, where XHR stands for XMLHttpRequest
 despite having nothing to do with XML. ([Read more about the different
 types of asynchronous requests in
-JavaScript](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c).)
-We can filter for XHR requests in the Network tab:
+JavaScript](https://archive.is/y48hO).) We can filter for XHR requests
+in the Network tab:
 
 ![XHR requests in Network
 inspector](/assets/messenger/xhr-requests.png)
@@ -863,7 +863,7 @@ response does indeed have the data we're looking for.
 
 Although the cURL command works, that `--data-raw` parameter is
 absolutely disgusting, so let's convert it to HTTPie syntax using
-[CurliPie](https://curlipie.vercel.app/):
+[CurliPie](https://curlipie.open-api.vn):
 
 ```
 % http -f https://www.messenger.com/api/graphql/ \
@@ -1026,7 +1026,7 @@ Using `-s` prevents cURL from printing out a progress bar.)
 With cURL, it's four backslashes in, four backslashes out. But with
 HTTPie, it's four backslashes in, *only two backslashes out*! Why?
 Well, if we Google, we end up finding [this GitHub
-issue](https://github.com/httpie/httpie/issues/654#issuecomment-367301035)
+issue](https://github.com/httpie/cli/issues/654#issuecomment-367301035)
 that mentions HTTPie allows the use of backslash-escaping in form
 parameters. This feature has the implication that if you *actually*
 want to include a backslash in your form parameters, you need to
@@ -1457,8 +1457,7 @@ inside:
 It looks like things start out with a bunch of initialization, setting
 up some kind of sequence of operations to operate as a single
 [transaction](https://stackoverflow.com/q/974596) using a bunch of
-[higher-order
-functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99):
+[higher-order functions](https://archive.is/sK4Fn):
 
 ```javascript
 function f() {

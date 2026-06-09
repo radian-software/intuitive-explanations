@@ -5,8 +5,8 @@ title: "Fiction Writing"
 In the spring of my senior year at [Harvey Mudd
 College](https://www.hmc.edu/), I took an excellent fiction writing
 workshop class taught by [Prof. Sal
-Plascencia](https://www.hmc.edu/hsa/faculty-staff/sal-plasencia/). The
-class focused on constraint-based writing, so for each of the
+Plascencia](https://web.archive.org/web/20220608012005/https://www.hmc.edu/hsa/faculty-staff/sal-plasencia/).
+The class focused on constraint-based writing, so for each of the
 assignments there were numerous rules and regulations, some of which
 were individual and based on our previous work. I found it to be an
 excellent experience, since I had always told myself I wanted to be

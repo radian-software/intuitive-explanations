@@ -731,14 +731,14 @@ may want to start with:
 [aur]: https://wiki.archlinux.org/title/Arch_User_Repository
 [aws]: https://en.wikipedia.org/wiki/Amazon_Web_Services
 [backup-manager]: https://github.com/radian-software/backup-manager
-[ben]: https://www.linkedin.com/in/ben-baral/
+[ben]: https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/d25680c2-9f7f-4828-bb97-f6e882240eca/content
 [bhs]: https://boh.bvsd.org/
 [big-o reminders]: https://github.com/radian-software/big-o-reminders
 [birthday filter]: https://github.com/radian-software/birthday-filter
 [blackout]: https://github.com/radian-software/blackout
 [blue rover]: https://github.com/radian-software/blue-rover
 [borg]: https://www.borgbackup.org/
-[bradley]: https://www.linkedin.com/in/bnew10/
+[bradley]: https://cmsathletics.org/sports/mens-swimming-and-diving/roster/bradley-newton/14845
 [brogue]: https://sites.google.com/site/broguegame/
 [btrfs]: https://en.wikipedia.org/wiki/Btrfs
 [c++]: https://en.wikipedia.org/wiki/C%2B%2B
@@ -752,7 +752,7 @@ may want to start with:
 [cbee]: /math/calculus-bowl-expert-edition
 [cdn]: https://en.wikipedia.org/wiki/Content_delivery_network
 [cf]: https://en.wikipedia.org/wiki/Collaborative_filtering
-[charles]: https://www.linkedin.com/in/charles-gruenwald-phd-150ba13
+[charles]: https://web.archive.org/web/20260131174938/https://techascent.com/
 [chess]: https://en.wikipedia.org/wiki/Chess
 [christmas rogue]: https://github.com/radian-software/ChristmasRogue
 [chrome-ext]: https://developer.chrome.com/extensions
@@ -776,7 +776,7 @@ may want to start with:
 [complex numbers]: https://en.wikipedia.org/wiki/Complex_number
 [computer algebra system]: https://en.wikipedia.org/wiki/Computer_algebra_system
 [contact]: /about/contacting
-[conway]: https://github.com/radian-software/conway
+[conway]: https://github.com/raxod502/conway
 [copymantle]: https://github.com/radian-software/copymantle
 [corona updown]: https://github.com/radian-software/corona-updown
 [cortex.optimise]: https://github.com/raxod502/cortex/tree/master/examples/optimise
@@ -793,7 +793,7 @@ may want to start with:
 [delight.el]: https://elpa.gnu.org/packages/delight.html
 [dess-source]: https://github.com/raxod502/intuitive-explanations/blob/main/doc/tex/documents/DifferentialEquationSolutionStrategies/DifferentialEquationSolutionStrategies.tex
 [dess]: /math/differential-equation-solution-strategies
-[dfa]: https://github.com/radian-software/dfa
+[dfa]: https://github.com/raxod502/dfa
 [dfas]: https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 [diary-manager]: https://github.com/radian-software/diary-manager
 [differential equations]: https://en.wikipedia.org/wiki/Differential_equation
@@ -822,7 +822,7 @@ may want to start with:
 [emtas]: https://github.com/radian-software/emtas
 [enterprise fizzbuzz]: https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 [etunes]: https://github.com/radian-software/etunes
-[example-website]: https://github.com/radian-software/example-website
+[example-website]: https://github.com/raxod502/example-website
 [exthdr]: https://en.wikipedia.org/wiki/IPv6_packet#Extension_headers
 [facebook messenger]: https://www.messenger.com/
 [facebook]: https://www.facebook.com/
@@ -835,7 +835,7 @@ may want to start with:
 [fstunes]: https://github.com/radian-software/fstunes
 [ftb password changer]: https://github.com/radian-software/ftb_password_changer
 [fuck venmo]: https://github.com/radian-software/fuck-venmo
-[funwithframes]: https://github.com/radian-software/funwithframes
+[funwithframes]: https://github.com/raxod502/funwithframes
 [gas]: https://developers.google.com/apps-script
 [geb]: https://github.com/radian-software/github-email-backlog
 [generative art]: https://en.wikipedia.org/wiki/Generative_art
@@ -859,7 +859,7 @@ may want to start with:
 [gradient descent]: https://en.wikipedia.org/wiki/Gradient_descent
 [graphql]: https://graphql.org/
 [gravity]: https://github.com/radian-software/Gravity
-[hakan]: https://www.linkedin.com/in/hakan-alpan-15189615b/
+[hakan]: https://www.hmc.edu/clinic/2020/optimizing-router-performance/
 [hangman2232]: https://github.com/radian-software/Hangman2232
 [hangman]: https://en.wikipedia.org/wiki/Hangman_(game)
 [hangouts]: https://hangouts.google.com/
@@ -895,7 +895,7 @@ may want to start with:
 [kalyn-post]: https://intuitiveexplanations.com/tech/kalyn
 [kalyn]: https://github.com/radian-software/kalyn
 [kenken]: https://en.wikipedia.org/wiki/KenKen
-[keren]: https://www.linkedin.com/in/keren-megory
+[keren]: https://github.com/kmegoryc
 [kernel]: https://en.wikipedia.org/wiki/Linux_kernel
 [kubernetes]: https://kubernetes.io/
 [kye]: https://github.com/kwshi
@@ -917,9 +917,9 @@ may want to start with:
 [make]: https://www.gnu.org/software/make/
 [map]: https://en.wikipedia.org/wiki/Associative_array
 [mathematica]: https://www.wolfram.com/mathematica/
-[mathviewers]: https://github.com/radian-software/MathViewers
+[mathviewers]: https://github.com/raxod502/MathViewers
 [matrix]: https://matrix.org/
-[max]: https://www.linkedin.com/in/max-treutelaar/
+[max]: https://mwt365.github.io/
 [mazegen neue]: https://github.com/radian-software/MazeGenNeue
 [mazegen]: https://github.com/radian-software/MazeGen
 [melaan]: https://github.com/radian-software/melaan
@@ -927,16 +927,16 @@ may want to start with:
 [messenger-post]: /tech/messenger
 [micropython]: https://micropython.org/
 [mihon]: https://mihon.app/
-[miles]: https://www.linkedin.com/in/miles-president-4b5394149/
+[miles]: https://tsl.news/miles-president-of-cms-basketball-talks-crossing-the-1000-point-mark/
 [minecraft]: https://en.wikipedia.org/wiki/Minecraft
 [minimal-webapp]: https://github.com/radian-software/minimal-webapp
 [minimax]: https://en.wikipedia.org/wiki/Minimax
 [misc-scripts]: https://github.com/radian-software/misc-scripts
 [mla-tex]: https://github.com/radian-software/mla-tex
-[mla]: https://owl.english.purdue.edu/owl/resource/747/24/
+[mla]: https://web.archive.org/web/20180729195443/https://owl.english.purdue.edu/owl/resource/747/24/
 [mm]: https://github.com/radian-software/messenger-mirror
-[mood-tracker]: https://github.com/radian-software/mood-tracker
-[mothers-day-2013]: https://github.com/radian-software/mothers-day-2013
+[mood-tracker]: https://github.com/raxod502/mood-tracker
+[mothers-day-2013]: https://github.com/raxod502/mothers-day-2013
 [mtls]: https://en.wikipedia.org/wiki/Mutual_authentication#mTLS
 [music-sorter]: https://github.com/raxod502/music-sorter
 [myftb]: https://www.ftb.ca.gov/myftb/index.asp
@@ -962,7 +962,7 @@ may want to start with:
 [photoprismproxy]: https://github.com/radian-software/photoprismproxy
 [pib-source]: https://github.com/radian-software/python-in-a-box
 [pib]: https://python-in-a-box.radian.codes/
-[picow]: https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html
+[picow]: https://web.archive.org/web/20260518125619/https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html
 [pipenv]: https://pipenv.pypa.io/en/latest/
 [pkgbuild]: https://wiki.archlinux.org/title/PKGBUILD
 [plaid]: https://plaid.com/
@@ -982,7 +982,7 @@ may want to start with:
 [pset]: https://github.com/radian-software/pset
 [puzzle hunt]: https://blog.vero.site/post/puzzlehunts
 [puzzle-hunt-1]: /puzzles
-[puzzles]: https://github.com/radian-software/puzzles
+[puzzles]: https://github.com/raxod502/puzzles
 [pyrelight]: https://github.com/radian-software/pyrelight
 [python]: https://www.python.org/
 [quantcast]: https://www.quantcast.com/
@@ -998,7 +998,7 @@ may want to start with:
 [red rover]: https://www.redroverk12.com/
 [regex-accountant-config]: https://github.com/radian-software/regex-accountant-config
 [regex-accountant]: https://github.com/radian-software/regex-accountant
-[replit-hn]: https://news.ycombinator.com/item?id=27424195
+[replit-hn]: https://web.archive.org/web/20260520003438/https://news.ycombinator.com/item?id=27424195
 [replit-post]: /tech/replit
 [replit]: https://intuitiveexplanations.com/tech/replit/
 [rev-eng]: https://en.wikipedia.org/wiki/Reverse_engineering
@@ -1021,7 +1021,7 @@ may want to start with:
 [sg-puzzles]: http://mathworld.wolfram.com/Slothouber-GraatsmaPuzzle.html
 [shallan-scripts]: https://github.com/radian-software/shallan-scripts
 [shallan]: https://github.com/radian-software/shallan
-[shannon]: https://www.linkedin.com/in/shannon-collier-631392149/
+[shannon]: https://www.flows.cv/shannoncollier
 [signal]: https://signal.org/
 [silhouette]: https://github.com/radian-software/silhouette
 [sleeping beauty]: https://github.com/radian-software/sleeping-beauty
@@ -1029,7 +1029,7 @@ may want to start with:
 [smartparens]: https://github.com/Fuco1/smartparens
 [sorting algorithms]: https://en.wikipedia.org/wiki/Sorting_algorithm
 [sortingalgorithms]: https://github.com/radian-software/SortingAlgorithms
-[space-grid]: https://github.com/radian-software/space-grid
+[space-grid]: https://github.com/raxod502/space-grid
 [squeaky hinge]: https://github.com/radian-software/squeaky-hinge
 [srh]: https://tools.ietf.org/html/rfc8754
 [star relic]: http://www.ifgdb.com/play/star-relic/
@@ -1038,13 +1038,13 @@ may want to start with:
 [straight.el]: https://github.com/radian-software/straight.el
 [students-speak]: /mental-health/students-speak
 [sudoku]: https://en.wikipedia.org/wiki/Sudoku
-[summit]: https://sum.bvsd.org/Pages/default.aspx
+[summit]: https://sum.bvsd.org/
 [surveying trigonometry worksheet]: https://github.com/raxod502/SurveyingTrigonometryWorksheet
 [swiper]: https://github.com/abo-abo/swiper#swiper
 [symlinks]: https://en.wikipedia.org/wiki/Symbolic_link
 [syntax tables]: https://www.gnu.org/software/emacs/manual/html_node/elisp/Syntax-Tables.html
 [tabcrush]: https://github.com/radian-software/tabcrush
-[tc-hn]: https://news.ycombinator.com/item?id=15460851
+[tc-hn]: https://web.archive.org/web/20250107063533/https://news.ycombinator.com/item?id=15460851
 [terraform]: https://en.wikipedia.org/wiki/Terraform_(software)
 [terraria]: https://terraria.org/
 [terrariaclone]: https://github.com/radian-software/TerrariaClone
@@ -1053,7 +1053,7 @@ may want to start with:
 [tetris-python]: https://github.com/radian-software/tetris-python
 [tetris]: https://en.wikipedia.org/wiki/Tetris
 [the hashinator]: https://github.com/radian-software/the-hashinator
-[ti-84-programs]: https://github.com/radian-software/TI84
+[ti-84-programs]: https://github.com/raxod502/TI84
 [ti-84]: https://en.wikipedia.org/wiki/TI-84_Plus_series#TI-84_Plus_Silver_Edition
 [ticketlord]: https://github.com/radian-software/ticketlord
 [ticketmaster]: https://en.wikipedia.org/wiki/Ticketmaster#Criticism_and_controversies
@@ -1084,7 +1084,7 @@ may want to start with:
 [version control]: https://en.wikipedia.org/wiki/Version_control
 [vertico]: https://github.com/minad/vertico
 [votinglib]: https://github.com/raxod502/VotingLib
-[watching paint dry]: https://github.com/radian-software/Watching-Paint-Dry
+[watching paint dry]: https://github.com/raxod502/Watching-Paint-Dry
 [wd]: https://github.com/mfaerevaag/wd
 [wdr-slides]: https://nextcloud.intuitiveexplanations.com/s/ZzNJW26CiMFB2T4
 [wdr-source]: https://github.com/raxod502/cs121-hello

@@ -118,8 +118,8 @@ subsequently settled in the San Francisco Bay Area where I intend to
 stay for the foreseeable future.
 
 I am queer, transgender, and non-binary, and use [they/them
-pronouns](https://www.verywellmind.com/they-them-pronouns-7110726). I
-am also on the autism spectrum, and experience [anxiety and
+pronouns](https://web.archive.org/web/20250303201313/https://www.verywellmind.com/they-them-pronouns-7110726).
+I am also on the autism spectrum, and experience [anxiety and
 depression](https://intuitiveexplanations.com/mental-health/students-speak)
 as well as chronic pain. Finally, I am white, economically well-off,
 and a US citizen. These aspects of my identity and experience, as well
@@ -550,8 +550,8 @@ short list.
 * Newsletters: Where possible, via
   [RSS](https://en.wikipedia.org/wiki/RSS) using
   [rss2email](https://github.com/rss2email/rss2email) and/or
-  self-hosted [RSSHub](https://rsshub.app/) instance. Otherwise by
-  email subscription.
+  self-hosted [RSSHub](https://github.com/DIYgod/RSSHub) instance.
+  Otherwise by email subscription.
 * Note-taking and to-do lists: Primarily Emacs [Org
   Mode](https://orgmode.org/) (with agenda, capture, clock), with
   [Obsidian](https://obsidian.md/) for mobile note-taking and
@@ -581,7 +581,8 @@ short list.
 * Search engine: [Kagi](https://kagi.com/) for the automated removal
   of AI slop and ability to customize search results to further tune
   quality, or [DuckDuckGo](https://duckduckgo.com/) for untrusted
-  systems. [TinEye](https://tineye.com/) for reverse image search.
+  systems. [TinEye](https://en.wikipedia.org/wiki/TinEye) for reverse
+  image search.
 * Social networks: None, I maintain relationships in real life and via
   direct messaging.
 * Translation service: [Kagi](https://translate.kagi.com/).
@@ -591,9 +592,10 @@ short list.
 ### Finance
 
 * Financial institutions: [Elevations Credit
-  Union](https://www.elevationscu.com/) (personal checking, debit,
-  credit, check writing, bill pay) and [SF Fire Credit
-  Union](https://sffirecu.org/) (business checking, debit).
+  Union](https://web.archive.org/web/20260524230452/https://www.elevationscu.com/)
+  (personal checking, debit, credit, check writing, bill pay) and [SF
+  Fire Credit Union](https://sffirecu.org/) (business checking,
+  debit).
 * Money transfer: credit union bill pay (ACH via email or SMS),
   physical cash, [Western
   Union](https://en.wikipedia.org/wiki/Western_Union),

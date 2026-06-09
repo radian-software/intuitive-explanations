@@ -56,7 +56,7 @@ I worked for Replit in Summer 2019, where I was asked to rebuild
 Replit's package management stack and make it open-source. If you like
 reading about tech stuff, [here's the post I wrote for Replit's
 blog](https://web.archive.org/web/20210504051428/https://blog.replit.com/upm),
-and [here's the code on GitHub](https://github.com/raxod502/upm).
+and [here's the code on GitHub](https://web.archive.org/web/20211221134407/https://github.com/replit/upm).
 
 I took a job elsewhere in Summer 2020, but still chatted with them
 occasionally by email when they reached out to tell me about something
@@ -169,7 +169,7 @@ email from Replit threatening me with a lawsuit" width="100%"
 And then just to put a cherry on top, Replit sent me another email
 reminding me that they [just raised $20 million from their investors
 last
-month](https://venturebeat.com/2021/02/18/replit-raises-20-million-for-collaborative-browser-based-coding/),
+month](https://web.archive.org/web/20250417011844/https://venturebeat.com/business/replit-raises-20-million-for-collaborative-browser-based-coding/),
 and they weren't afraid to use it against me. The "me" in question
 being one of their previous interns who just graduated from college a
 year ago, and who isn't running any kind of commercial operation
@@ -402,9 +402,10 @@ treatment *they* might receive.
 
 After I posted the article in the morning, it was [discussed
 extensively on Hacker
-News](https://news.ycombinator.com/item?id=27424195). Around 5pm,
-Amjad posted an apology on Hacker News, [which has also been
-discussed](https://news.ycombinator.com/item?id=27429234).
+News](https://web.archive.org/web/20260520003438/https://news.ycombinator.com/item?id=27424195).
+Around 5pm, Amjad posted an apology on Hacker News, [which has also
+been
+discussed](https://web.archive.org/web/20241015072304/https://news.ycombinator.com/item?id=27429234).
 
 <p><center><img src="/assets/amjad-hn-1.png" alt="Screenshot of an
 email from Amjad apologizing for making legal threats, and my reply

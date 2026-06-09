@@ -61,7 +61,7 @@ first page of Google results for "run multiple programming languages
 online", all of whom---again---do basically the same thing:
 
 * <https://tio.run/>
-* <https://code.labstack.com/>
+* [https://code.labstack.com/](https://web.archive.org/web/20220427124816/https://code.labstack.com/)
 * <https://onecompiler.com/>
 * <https://ideone.com/>
 * <https://www.tutorialspoint.com/codingground.htm>
@@ -129,7 +129,7 @@ their code evaluation websocket messages [in their official
 documentation](https://web.archive.org/web/20210502164337/https://protodoc.turbio.repl.co/services).
 You might think this is supposed to be a secret internal page, but no,
 it's linked [directly from Replit's public
-GitHub](https://github.com/raxod502/crosis).
+GitHub](https://web.archive.org/web/20210828122650/https://github.com/replit/crosis/).
 
 ### Riju's use of per-language config
 
@@ -163,11 +163,12 @@ documented [on Replit's
 blog](https://web.archive.org/web/20210504023410/https://blog.replit.com/elisp),
 and there's even open-source code to generate shell scripts and build
 such a Docker image [on their public
-GitHub](https://github.com/raxod502/polygott). In case you thought the
-one-image-versus-many-images decision might be a trade secret, nope,
-there's a discussion of that issue [right in the GitHub
-README](https://github.com/raxod502/polygott#overview) along with a
-note about what Replit ended up going with.
+GitHub](https://web.archive.org/web/20211130092153/https://github.com/replit/polygott).
+In case you thought the one-image-versus-many-images decision might be
+a trade secret, nope, there's a discussion of that issue [right in the
+GitHub
+README](https://web.archive.org/web/20211130092153/https://github.com/replit/polygott#overview)
+along with a note about what Replit ended up going with.
 
 ### Riju's build system
 
@@ -186,7 +187,7 @@ Is any aspect of this build system a trade secret? No, because it
 simply has no equivalent whatsoever at Replit; the design was purely
 my own innovation. If you'd like to verify this fact for yourself, you
 can check out Replit's implementation [on
-GitHub](https://github.com/raxod502/polygott).
+GitHub](https://web.archive.org/web/20211130092153/https://github.com/replit/polygott).
 
 ### Riju's deployment configuration
 
@@ -229,7 +230,7 @@ No, and here's why for each one:
   Replit](https://github.com/MuddCreates/hyperschedule/blob/e1b0b661b4712ec8744b1a033ce63be4789db33e/server.js).
 * Configuration: JSON and YAML are [the top two most popular
   configuration
-  formats](https://towardsdatascience.com/from-novice-to-expert-how-to-write-a-configuration-file-in-python-273e171a8eb3#7ae4),
+  formats](https://archive.is/EuYji#7ae4),
   and it's easy to [find both in my pre-Replit
   projects](https://github.com/raxod502/pset/tree/d0be46e12e2b134f23994495a63ec5c43850a6d9).
   I've used JSON Schema in projects [predating my work at
@@ -241,7 +242,7 @@ No, and here's why for each one:
 * Infrastructure: The fact that Replit uses Docker [is public
   knowledge](https://web.archive.org/web/20210504031011/https://blog.replit.com/killing-containers-at-scale),
   and besides, my technical work with Docker at Replit [is
-  open-source](https://github.com/raxod502/upm).
+  open-source](https://web.archive.org/web/20211221134407/https://github.com/replit/upm).
 * Libraries: Express is [the #1 most popular Node.js web
   framework](https://x-team.com/blog/most-popular-node-frameworks/),
   and (as with Node.js) I'd been [using it years before working at
