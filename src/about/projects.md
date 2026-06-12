@@ -459,7 +459,7 @@ may want to start with:
   MATH 189G: Mathematics of Voting; archived): [Java] library written
   for a short research project investigating the performance of
   different voting systems assuming voter satisfaction can be modeled
-  as a high-dimensional Eucliean distance metric.
+  as a high-dimensional Euclidean distance metric.
 * [SortingAlgorithms] (Fall 2016; archived): Versions of common
   [sorting algorithms] that I wrote in [Java] to help me learn about
   them.
