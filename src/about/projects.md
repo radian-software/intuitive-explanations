@@ -425,14 +425,17 @@ may want to start with:
   become obsolete and have been removed.
 * [Pyrelight] (Spring -- Summer 2020; abandoned): More sophisticated
   command-line music player and library manager. Attempt #4 at a
-  personal music library manager. Will be replaced by Shallan.
+  personal music library manager. Replaced by Shallan.
 * [Shallan] (Spring -- Summer 2021; unfinished): Personal music
   library player combining the user-friendly interface and
   cross-device synchronization of [YouTube Music][ytm] with the
   flexibility and ownership of a self-hosted open-source solution.
-  Attempt #5 at a personal music library manager.
+  Attempt #5 at a personal music library manager. Will be replaced by
+  [MusiQLite].
 * [shallan-scripts] (Spring 2021): Simple script for migrating a
   library from [µTunes][utunes] to [Shallan].
+* [MusiQLite] (Winter 2026; unfinished): Attempt #6 at a personal
+  music library manager.
 
 ## Research and learning
 
@@ -939,6 +942,7 @@ may want to start with:
 [mothers-day-2013]: https://github.com/raxod502/mothers-day-2013
 [mtls]: https://en.wikipedia.org/wiki/Mutual_authentication#mTLS
 [music-sorter]: https://github.com/raxod502/music-sorter
+[musiqlite]: https://github.com/radian-software/musiqlite
 [myftb]: https://www.ftb.ca.gov/myftb/index.asp
 [n-body]: https://en.wikipedia.org/wiki/N-body_simulation
 [nanoma]: https://github.com/radian-software/nanoma
