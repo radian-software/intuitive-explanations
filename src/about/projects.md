@@ -528,10 +528,12 @@ may want to start with:
   fully automates the process of arguing with [Venmo]'s sociopathic
   customer support department multiple times per day so they agree to
   unlock your account that they keep locking without justification.
-* [Venmo Auto Transfer Neue] (Summer 2024 -- Winter 2025): Wrapper for
-  [venmo-auto-cashout] that also handles SMS OTP via my [Matrix]
-  homeserver. Implementing the Matrix cryptography turned out to be
-  the vast majority of the code for this project.
+* [Venmo Auto Transfer Neue] (Summer 2024 -- Winter 2025; archived):
+  Wrapper for [venmo-auto-cashout] that also handles SMS OTP via my
+  [Matrix] homeserver. Implementing the Matrix cryptography turned out
+  to be the vast majority of the code for this project. Eventually I
+  changed authentication approaches, which obviated SMS OTP and made
+  it possible to use venmo-auto-cashout directly.
 * [Outertube] (Fall 2024; abandoned): Open-source player for YouTube
   [WideVine L3][widevine] content streams. Based on work from
   [Decryptonite], but didn't get very far.
